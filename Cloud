@@ -1,0 +1,115 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <centre>
+            <h1><b>CLOUD COMPUTING</b></h1>
+        </centre>
+        <article>
+            <h4>
+                <p>
+                    In a nutshell, Cloud Computing provides range of services over the internet
+                    or "THE CLOUD". Cloud usually ehnances the use of remote servers instead of 
+                    the local hard drives and private data centres.
+                </p>
+                <p>
+
+                    Before Cloud Computing came into existence, Organizations has to purchase own 
+                    servers to meet bussiness needs.To reduce the risk of downtime and outages, 
+                    and to accomodate peak traffic volume, larger number of server spaces were 
+                    required but today's cloud server reduced the need for onsite servers, as well
+                    establishes maintenance personnel, and other costly IT resources.
+                </p>
+            </h4>
+            <br/>
+            <hr/>
+            <h3>
+            
+                    <p>Working On Cloud Computing</p>
+                
+            </h3>
+            <h4>
+                <p>
+                    Cloud Computing has 3 types of deployment models
+                    <ul>
+                        <li><b>Private Cloud</b></li>
+                    </ul>
+                    In this model, Single business entity holds the proprietary where the physical
+                    components stored on the premises. This model holds an high degree of control,
+                    because this is only accessible to a single business model. Advanced security 
+                    protocols and the computing resources extended to virtualized environment makes 
+                    it advantageous. An organization can contract with third party cloud vendors 
+                    onsite to host and makes exclusive servers available to the internal users via 
+                    the intranet, offsite.
+                    <ul>
+                        <li><b>Public Cloud</b></li>
+                    </ul>
+                    This model uses the internet to store and access data and applications. It 
+                    provides an virtualized environment to the users ensuring the shared resources 
+                    are leveraged. The resources delivered over the web are scales more easily by 
+                    the organizations. The services provided ensures robust security measures to 
+                    protect data and avoids it from third party accessibilities.
+                    <ul>
+                        <li><b>Hybrid Cloud</b></li>
+                    </ul>
+                    This model combines both private and public cloud models that allows organizations
+                    to ensure shared resources while using existing IT resources and critical security
+                    requirements. Allows companies to store confidential data internally and access it 
+                    via applications running with public cloud models. An organization choses to store 
+                    sensitive user data in private cloud and resource intensive computation in public 
+                    cloud.
+                </p>
+                <p>
+                    In addition, organizations can chose to work with <b>multi-cloud</b>, which uses 
+                    more than one public cloud service. This model makes the flow workloads across
+                    multiple platforms, and ensures performance desirability, flexibility, and cost 
+                    savings.
+                </p>
+                
+            </h4>
+            <hr/>
+            <h4>
+                <p><b><h3>Benefits Of Cloud Computing</h3></b></p>
+                <p>
+                    <ol>
+                        <li>Cost effective than on-site server installations.</li>
+                        <li>Provides faster service than a traditional installations.</li>
+                        <li>Easily scalable</li>
+                        <li>Accomodate real time changes in computing power needs</li>
+                        <li>Offers dependable data backup for disaster recovery and business continuity</li>
+
+                    </ol>
+                </p>
+
+            </h4>
+            <hr/>
+            <p><b><h3>Cloud Computing Examples</h3></b></p>
+            <p><ul><li><b>Software as a Service(SaaS)</b></li></ul></p>
+            <p><h4>
+                Traditionally, Software was installed directly on each device. Web Applications are hosted in 
+                the cloud to reduce costs through pay-as-you-go pricing(users pay as per thry consume).
+                End users easily conect through a web browser or mobile device and IT departments are not
+                involved in management or maintenance.
+                EXAMPLE- Gmail,Salesforce, and Cloud Storage Devices like OneDrive
+
+                <p><ul><li>Infrastructure as a Service(IaaS)</li></ul></p>
+                This model moves an organization's entire datacentre to cloud. The business rents virtual machine's,
+                virtual servers, operating systems and other IT infrastructure on pay-as-you-go basis
+                EXAMPLE- microsoft azure, google cloud.
+
+                <p><ul><li>Platform as a Service(PaaS)</li></ul></p>
+                This model provides a power to develop software without maintaining the backend environment.
+                Vendors customises and optimizes the environment based on business needs and makes use of supplemental 
+                developmental tools such as storage resources, services and controls.
+
+            </h4></p>
+
+        </article>
+        
+
+
+    </body>
+
+</html>
